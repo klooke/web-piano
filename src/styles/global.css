@@ -30,6 +30,10 @@ main header {
   justify-content: space-between;
 }
 
+.hide {
+  display: none;
+}
+
 .column {
   height: 30px;
   display: flex;
